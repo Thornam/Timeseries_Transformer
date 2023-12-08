@@ -7,7 +7,7 @@ The repository holds three main Jupyter Notebooks:
 - Model training
 - Forecast and portfolio
 
-Moreover, the repository holds three Python files with code used for the three main Jupyter Notebooks:
+Moreover, the repository holds three Python files with code used within the three main Jupyter Notebooks:
 - Timeserie_models
 - Positional_encoder
 - utils
