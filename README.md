@@ -30,7 +30,7 @@ This Jupyter Notebook reads in the preprocessed data and trains the individual m
 ### Forecasting and portfolio
 This Jupyter Notebook uses the best parameter values from the train models and creates a forecast on the test data (SPX). Afterwards, it makes the portfolios.
 
-*Notice: This program uses a GPU and requires a high amount of RAM since it takes all the test data into the model in one go. Therefore it is recommended to use the Colab runtime-type 'A100' if possible, however the runtime-type 'V100' is also an option but it might crash. If the program crashes with 'V100' just shut down the program and try again (the 'V100' runtime-type is on the edge of what is needed to run the program and most times it can do so)*
+*Notice: This program uses a GPU and requires a high amount of RAM since it takes all the test data into the model in one go. Therefore it is recommended to use the Colab runtime-type 'A100' if possible, however the runtime-type 'V100' is also an option but it might crash. If the program crashes with 'V100' just shut down the program and try again (the 'V100' runtime-type is on the edge of what is needed to run the program and most times it does succed)* 
 
 References used for the code:
 
