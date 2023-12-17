@@ -25,7 +25,7 @@ This Jyputer Notebook reads in the raw data, preprocess it creates the sequences
 ### Model Training
 This Jupyter Notebook reads in the preprocessed data and trains the individual models while saving the important parameter values.
 
-*Notice: This program uses a GPU for training and does take quite some time to run. It is recommended to use the Colab runtime-type 'V100' for this program, but the runtime-type 'T4' should also work.*
+*Notice: This program uses a GPU for training and does take quite some time to run. It is recommended to use the Colab runtime-type 'V100' for this program, but the runtime-type 'T4' should also work. Models with a batchsize of 1024 however does need the 'A100' runtime-type to run the program.*
 
 ### Forecasting and portfolio
 This Jupyter Notebook uses the best parameter values from the train models and creates a forecast on the test data (SPX). Afterwards, it makes the portfolios.
