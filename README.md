@@ -14,7 +14,8 @@ have been able to significantly do better for the task of asset volatility predi
 classic methods such as GARCH models (Ge, Lalbakhsh, Isai, Lensky, & Suominen, 2023).
 This leads to the question of whether Transformer models can effectively be implemented
 for asset return predictions and outperform existing methods in a portfolio setting.
-It finds that the Transformer model can capture
+
+The paper finds that the Transformer model can capture
 valuable information even in relatively volatile time series, such as weekly stock market
 returns, which can be implemented effectively in simple long portfolios. The portfolios
 created based on the Transformer predictions outperformed a series of benchmark portfolios,
