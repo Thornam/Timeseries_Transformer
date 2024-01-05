@@ -1,4 +1,4 @@
-# Timeseries Transformer
+# Time Series Transformer
 
 This repository is created for the Master's Thesis "A Transformer Based Model for Time Series within Finance" at the University of Copenhagen 2023.
 
