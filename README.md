@@ -20,7 +20,6 @@ returns, which can be implemented effectively in simple long portfolios. The por
 created based on the Transformer predictions outperformed a series of benchmark portfolios,
 such as three different momentum-based portfolios, an equally weighted portfolio, and an
 LSTM forecasting portfolio.
-
 The question of how the Transformer predictions are best implemented in a portfolio setting
 is still an open question. However, the paper explores different Loss functions for the specific
 task of creating predictions for a portfolio setting.*
@@ -29,7 +28,7 @@ task of creating predictions for a portfolio setting.*
 The file 'Presentation' is a presentation created for the defense of the Master's Thesis and goes through the main findings in the paper.
 
 ## Code
-All code is written to be run on Google Colab.
+All code is written to be run in Google Colab.
 
 The repository holds three main Jupyter Notebooks:
 - Data Preparation
