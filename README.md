@@ -57,7 +57,7 @@ This Jyputer Notebook reads in the raw data, preprocesss it, and creates the seq
 This Jupyter Notebook reads in the preprocessed data and trains the individual models while saving the important parameter values.
 
 ### Forecasting and portfolio
-This Jupyter Notebook uses the best parameter values from the train models and creates a forecast on the test data (SPX). Afterwards, it makes the portfolios.
+This Jupyter Notebook uses the best parameter values from the trained models and creates a forecast on the test data (SPX). Afterwards, it makes the portfolios.
 
 References used for the code:
 
