@@ -20,9 +20,11 @@ returns, which can be implemented effectively in simple long portfolios. The por
 created based on the Transformer predictions outperformed a series of benchmark portfolios,
 such as three different momentum-based portfolios, an equally weighted portfolio, and an
 LSTM forecasting portfolio.
+
 The question of how the Transformer predictions are best implemented in a portfolio setting
 is still an open question. However, the paper explores different Loss functions for the specific
 task of creating predictions for a portfolio setting.*
+
 
 The file 'Presentation' is a presentation created for the defense of the Master's Thesis and goes through the main findings in the paper.
 
@@ -41,6 +43,7 @@ Moreover, the repository holds three Python files with code used within the thre
 
 #### Data
 Raw data and data prepared as input to the time-series models are collected in the folder 'Data'.
+
 *Notice: All raw data has been removed for the publication of the repository since I do not have the right to share it.*
 
 #### Output
