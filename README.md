@@ -3,6 +3,7 @@
 This repository is created for the Master's Thesis "Transformer based model for time-series within Finance" at the University of Copenhagen 2023.
 
 Abstract of the paper: 
+
 *The recent development and success of Large Language Models, such as ChatGPT, builds
 on the introduction of Transformer models, which was first published in (Vaswani et al.,
 2017). The advantages of Transformer models, to retrieve information in long sequences of
