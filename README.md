@@ -1,6 +1,6 @@
 # Timeseries Transformer
 
-This repository is created for the Master's Thesis "Transformer based model for time-series within Finance" at the University of Copenhagen 2023.
+This repository is created for the Master's Thesis "A Transformer Based Model for Time Series within Finance" at the University of Copenhagen 2023.
 
 Abstract of the paper: 
 
