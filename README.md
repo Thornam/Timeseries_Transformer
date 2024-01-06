@@ -27,7 +27,7 @@ task of creating predictions for a portfolio setting.*
 
 ## Presentation
 The paper creates a model based on the Transformer from the paper by Vaswani et al.,
-2017 and alternates it for time series data.
+2017 and alternates it for time series data. The Transformer model as be presented as follows:
 
 ![Image of the Transformer Model](/Images/Transformer_model.png "Transformer model")
 
