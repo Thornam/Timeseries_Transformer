@@ -31,6 +31,8 @@ The file 'Presentation' is a presentation created for the defense of the Master'
 
 ![Image of the Transformer Model](/Images/Transformer_model.png)
 
+![Image of the Portfolios created in the paper](/Images/Out-of-sample_portfolios.png)
+
 ## Code
 All code is written to be run in Google Colab.
 
