@@ -37,7 +37,7 @@ The five trained models are used to forecast the four-week return of all S&P-500
 
 ![Image of the Portfolios created in the paper](/Images/Out-of-sample_portfolios.png "Out-of-sample Portfolios")
 
-The results show that the Transformer model, in general, can outperform both the LSTM model and the S&P-500 equally weighted index over the five-year test period. It also shows that the choice of the loss function does play a role in the overall return over the period. However, notice that these results do not serve as any investment advice, but merely indicate the information captured by the Transformer models in even a volatile time series setting such as for weekly asset returns. 
+The results show that the Transformer model, in general, can outperform both the LSTM model and the S&P-500 equally weighted index over the five-year test period. It also shows that the choice of the loss function does play a role in the overall return over the period. However, notice that these results do not serve as any investment advice, but merely indicate the information captured by the Transformer models even in a volatile setting such as for weekly asset returns. 
 
 The file 'Presentation' contains slides created for the defense of the Master's Thesis and goes through the main findings in the paper.
 
