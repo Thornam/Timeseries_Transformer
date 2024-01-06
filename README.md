@@ -51,13 +51,13 @@ Outputs from the individual models (training and forecasts) and the portfolio cr
 
 
 ### Data Preparation
-This Jyputer Notebook reads in the raw data, preprocess it creates the sequences ready to be fed into the models. It does this for both the training and test data.
+This Jyputer Notebook reads in the raw data, preprocesss it, and creates the sequences ready to be fed into the models. It does this for both the training and test data.
 
 ### Model Training
 This Jupyter Notebook reads in the preprocessed data and trains the individual models while saving the important parameter values.
 
 ### Forecasting and portfolio
-This Jupyter Notebook uses the best parameter values from the train models and creates a forecast on the test data (SPX). Afterwards, it makes the portfolios.
+This Jupyter Notebook uses the best parameter values from the trained models and creates a forecast on the test data (SPX). Afterwards, it makes the portfolios.
 
 References used for the code:
 
