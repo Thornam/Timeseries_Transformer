@@ -28,6 +28,7 @@ task of creating predictions for a portfolio setting.*
 ## Presentation
 
 The file 'Presentation' is a presentation created for the defense of the Master's Thesis and goes through the main findings in the paper.
+
 ![Image Alt text](/Images/Transformer model.jpg "Optional title"))
 
 ## Code
