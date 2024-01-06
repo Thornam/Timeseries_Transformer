@@ -57,7 +57,7 @@ Moreover, the repository holds three Python files with code used within the thre
 #### Data
 Raw data and data prepared as input to the time-series models are collected in the folder 'Data'.
 
-*Notice: All raw data has been removed for the publication of the repository since I do not have the right to share it.*
+*Notice: All raw data has been removed for the publication of the repository since I do not have the rights to share.*
 
 #### Output
 Outputs from the individual models (training and forecasts) and the portfolio creation are collected in the folder 'Models'.
