@@ -25,8 +25,10 @@ The question of how the Transformer predictions are best implemented in a portfo
 is still an open question. However, the paper explores different Loss functions for the specific
 task of creating predictions for a portfolio setting.*
 
+## Presentation
 
 The file 'Presentation' is a presentation created for the defense of the Master's Thesis and goes through the main findings in the paper.
+![Image Alt text](/Images/Transformer model.jpg "Optional title"))
 
 ## Code
 All code is written to be run in Google Colab.
