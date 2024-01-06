@@ -26,12 +26,18 @@ is still an open question. However, the paper explores different Loss functions 
 task of creating predictions for a portfolio setting.*
 
 ## Presentation
+The paper creates a model based on the Transformer from the paper by Vaswani et al.,
+2017 and alternates it for time series data.
+
+![Image of the Transformer Model](/Images/Transformer_model.png "Transformer model")
+
+The model is trained on the 12% largest stocks (Market Capitalization) in North America and Western Europe for the period 2012 - 2017, which gives approximately 2500 assets. The Transformer model uses weekly returns and is trained with four different loss functions; Mean Squared Error (MSE), Weighted Mean Squared Error (WMSE), Adjusted Mean Squared Error (AdjMSE), and Negative Correlation (NegCorr). Moreover, a standard LSTM model with an MSE loss function is trained as a reference model. 
+
+The five trained models are used to forecast the four-week return of all S&P-500 stocks for the period 2018 - 2023. Based on the model predictions, simple portfolios as created to evaluate the performance of each model in the out-of-sample period. Moreover, the five model-based portfolios are compared to the overall S&P-500 equally weighted index. 
+
+![Image of the Portfolios created in the paper](/Images/Out-of-sample_portfolios.png "Out-of-sample Portfolios")
 
 The file 'Presentation' is a presentation created for the defense of the Master's Thesis and goes through the main findings in the paper.
-
-![Image of the Transformer Model](/Images/Transformer_model.png)
-
-![Image of the Portfolios created in the paper](/Images/Out-of-sample_portfolios.png)
 
 ## Code
 All code is written to be run in Google Colab.
