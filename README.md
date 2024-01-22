@@ -5,8 +5,8 @@ This repository is created for the Master's Thesis "A Transformer Based Model fo
 Abstract of the paper: 
 
 *The recent development and success of Large Language Models, such as ChatGPT, builds
-on the introduction of Transformer models, which was first published in (Vaswani et al.,
-2017). The advantages of Transformer models, to retrieve information in long sequences of
+on the introduction of Transformer models, which was first published in Vaswani et al.,
+2017. The advantages of Transformer models, to retrieve information in long sequences of
 data instead of single-pointed input, have recently been shown to be effective for time series
 forecasting and to outperform existing models such as AR and RNN models ((Zhou et al.,
 2021) and (Li et al., 2019)). Moreover, within the financial field, the Transformer models
